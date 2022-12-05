@@ -1,0 +1,11 @@
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\bin\Debug\FootballManagerForm.exe.config
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\bin\Debug\FootballManagerForm.exe
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\bin\Debug\FootballManagerForm.pdb
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.csproj.AssemblyReference.cache
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.Form1.resources
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.Properties.Resources.resources
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.csproj.GenerateResource.cache
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.exe
+C:\Users\Göktuğ\Desktop\NBUY\6.HAFTA\FootballManagerForm\FootballManagerForm\obj\Debug\FootballManagerForm.pdb
